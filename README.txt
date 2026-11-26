@@ -1,9 +1,11 @@
-CHRISTMAS SCOOP MYSTERIES - CHAPTER ONE VISUAL/INTERACTION PROTOTYPE
+CHRISTMAS SCOOP MYSTERIES — CHAPTER ONE UPDATED PROTOTYPE
 
-Upload index.html, shop1.jpg through shop6.jpg, and reward-preview.jpg into the ROOT of your GitHub Pages repository.
+Upload the contents of this folder to the ROOT of your GitHub Pages repository, replacing the previous prototype files. The six shop pictures are cropped from the approved EMPTY Main Street panorama; the chapter reward uses the approved BUSY panorama.
 
-TEST ONLY: All six flavors are unlocked for testing, no date gating or backend, browser-local progress.
+This is a TEST PROTOTYPE, not the launch-ready calendar. All six days are open; progress is stored in this browser only. Cloud database, login and secure date unlocking still need implementation.
 
-IMPORTANT ART CHECKPOINT: The six separate shop images come from one composite concept image and have slightly different visual treatments. The reward-preview.jpg is a placeholder from our earlier village and DOES NOT show the same six storefronts. Do not give to Joan as final.
+Real flavor names/makers are in index.html and are revealed only after a voluntary guess or skip. The saved data includes guess, revealed, rating, notes, Buy Again and rewardOpened.
 
-The original full composite concept image was generated as a visual mockup, and the six storefront panels were cropped from it.
+Images were cropped from generated original village artwork. Crops include some neighboring shop edges so the six-shop street remains recognizable.
+
+Day 3 corrected to Silkiest Milkiest (Jeni's).
